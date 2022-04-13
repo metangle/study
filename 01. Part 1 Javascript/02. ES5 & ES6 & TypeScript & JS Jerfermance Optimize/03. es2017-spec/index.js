@@ -32,13 +32,13 @@
 // // console.log(p1.fullName)
 
 // // const p2 = Object.assign({}, p1)
-// // p2.firstName = 'zce'
+// // p2.firstName = 'my'
 // // console.log(p2)
 
 // const descriptors = Object.getOwnPropertyDescriptors(p1)
 // // console.log(descriptors)
 // const p2 = Object.defineProperties({}, descriptors)
-// p2.firstName = 'zce'
+// p2.firstName = 'my'
 // console.log(p2.fullName)
 
 // String.prototype.padStart / String.prototype.padEnd  --------------------

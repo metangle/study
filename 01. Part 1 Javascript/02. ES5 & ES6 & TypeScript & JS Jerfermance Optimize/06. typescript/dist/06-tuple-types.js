@@ -1,7 +1,7 @@
 "use strict";
 // 元组（Tuple）
 Object.defineProperty(exports, "__esModule", { value: true });
-var tuple = [18, 'zce'];
+var tuple = [18, 'my'];
 // const age = tuple[0]
 // const name = tuple[1]
 var age = tuple[0], name = tuple[1];

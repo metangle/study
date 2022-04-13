@@ -1,0 +1,10 @@
+{
+  "name": "generator-my-vue",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.0.1"
+  }
+}

@@ -1,7 +1,7 @@
 // Proxy 对象
 
 // const person = {
-//   name: 'zce',
+//   name: 'my',
 //   age: 20
 // }
 
@@ -37,7 +37,7 @@
 // 优势1：Proxy 可以监视读写以外的操作 --------------------------
 
 // const person = {
-//   name: 'zce',
+//   name: 'my',
 //   age: 20
 // }
 
@@ -97,7 +97,7 @@
 
 // Proxy 方式更为合理
 const person2 = {
-  name: 'zce',
+  name: 'my',
   age: 20
 }
 

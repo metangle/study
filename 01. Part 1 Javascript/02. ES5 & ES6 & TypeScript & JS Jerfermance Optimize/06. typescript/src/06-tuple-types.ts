@@ -2,7 +2,7 @@
 
 export {} // 确保跟其它示例没有成员冲突
 
-const tuple: [number, string] = [18, 'zce']
+const tuple: [number, string] = [18, 'my']
 
 // const age = tuple[0]
 // const name = tuple[1]

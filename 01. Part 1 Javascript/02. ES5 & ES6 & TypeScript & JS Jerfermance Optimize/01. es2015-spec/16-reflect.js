@@ -16,7 +16,7 @@
 // console.log(proxy.foo)
 
 const obj = {
-  name: 'zce',
+  name: 'my',
   age: 18
 }
 

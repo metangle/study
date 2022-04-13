@@ -56,7 +56,7 @@
 
 const name = Symbol()
 const person = {
-  [name]: 'zce',
+  [name]: 'my',
   say () {
     console.log(this[name])
   }

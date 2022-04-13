@@ -40,7 +40,7 @@ module.exports = class extends Generator {
     // // 输出目标路径
     // const output = this.destinationPath('foo.txt')
     // // 模板数据上下文
-    // const context = { title: 'Hello zce~', success: false }
+    // const context = { title: 'Hello my~', success: false }
 
     // this.fs.copyTpl(tmpl, output, context)
 

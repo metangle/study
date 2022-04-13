@@ -1,7 +1,7 @@
 // Generator 函数
 
 // function * foo () {
-//   console.log('zce')
+//   console.log('my')
 //   return 100
 // }
 

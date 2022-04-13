@@ -1,7 +1,7 @@
 // let 声明的成员只会在所声明的块中生效 -------------------------------------------
 // if (true) {
-//   // var foo = 'zce'
-//   let foo = 'zce'
+//   // var foo = 'my'
+//   let foo = 'my'
 //   console.log(foo)
 // }
 
@@ -83,7 +83,7 @@
 // let 修复了变量声明提升现象 --------------------------------------------
 
 // console.log(foo)
-// var foo = 'zce'
+// var foo = 'my'
 
 // console.log(foo)
-// let foo = 'zce'
+// let foo = 'my'

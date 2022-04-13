@@ -1,6 +1,6 @@
 // 对象的解构
 
-const obj = { name: 'zce', age: 18 }
+const obj = { name: 'my', age: 18 }
 
 // const { name } = obj
 // console.log(name)

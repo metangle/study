@@ -5,7 +5,7 @@
 //     return {
 //       next: function () {
 //         return {
-//           value: 'zce',
+//           value: 'my',
 //           done: true
 //         }
 //       }
