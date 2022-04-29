@@ -33,18 +33,18 @@ module.exports = {
         children: [
           {
             name: 'Twitter',
-            link: 'https://twitter.com/w_zce'
+            link: 'https://twitter.com/w_xxx'
           },
           {
             name: 'About',
-            link: 'https://weibo.com/zceme'
+            link: 'https://weibo.com/xxxme'
           },
           {
             name: 'divider'
           },
           {
             name: 'About',
-            link: 'https://github.com/zce'
+            link: 'https://github.com/xxx'
           }
         ]
       }
